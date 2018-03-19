@@ -1,0 +1,43 @@
+@media only screen and (max-width:350px){
+    .loadBg{
+        -webkit-transform: translate3d(-50%, -100%, 0) scale(.8);
+            transform: translate3d(-50%, -100%, 0) scale(.8);
+    }
+    .con-page1-content{
+        -webkit-transform: translate3d(-50%, -50%, 0) scale(.8);
+            transform: translate3d(-50%, -50%, 0) scale(.8);
+    }
+    .chart-box-title{
+        font-size: 18px;
+        padding: 4px 5px;
+    }
+    .chart-box-left .rmb{
+        font-size: 42px;
+    }
+    .chart-box-right .percent{
+        font-size: 20px;
+    }
+    .chart-box-right .con-bar{
+        /*-webkit-transform: scale(.8);
+            transform: scale(.8);*/
+    }
+    .chart-box-right .bar-text{
+        /*bottom: 24px;*/
+    }
+    .chart-box-rocket{
+        -webkit-transform: scale(.8);
+            transform: scale(.8);
+    }
+
+    .diamond-text-7,.diamond-text-2,.diamond-text-1{
+        font-size: 12px;
+    }
+    .diamond-text-8{
+        font-size: 16px;
+    }
+    .page23-title, .page23-name, .page23-web{
+        -webkit-transform: translate3d(-50%, -50%, 0) scale(.8);
+            transform: translate3d(-50%, -50%, 0) scale(.8);
+
+    }
+}
